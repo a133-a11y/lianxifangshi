@@ -75,7 +75,7 @@
         </div>
         
         <div class="contact-item">
-            <p><i class="fas fa-envelope"></i> 电子邮件: <a href="mailto:18059265356@163.com">18059265356@163.co/a></p>
+            <p><i class="fas fa-envelope"></i> 电子邮件: <a href="mailto:18059265356@163.com">18059265356@163.com
         </div>
         
         <div class="contact-item">
